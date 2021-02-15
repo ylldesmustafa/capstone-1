@@ -6,7 +6,10 @@ export const storeProducts = [
     price: 5,
     company: "Heads-To-Tails Pet Shop",
     info: 
-    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo"
+    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo",
+    inCart: false,
+    count: 0,
+    total: 0,
   },
   {
     id: 2,
@@ -15,7 +18,10 @@ export const storeProducts = [
     price: 5,
     company: "Heads-To-Tails Pet Shop",
     info: 
-    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo"
+    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo",
+    inCart: false,
+    count: 0,
+    total: 0,
   },
   {
     id: 3,
@@ -24,7 +30,10 @@ export const storeProducts = [
     price: 5,
     company: "Heads-To-Tails Pet Shop",
     info: 
-    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo"
+    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo",
+    inCart: false,
+    count: 0,
+    total: 0,
   },
   {
     id: 4,
@@ -33,7 +42,10 @@ export const storeProducts = [
     price: 5,
     company: "Heads-To-Tails Pet Shop",
     info: 
-    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo"
+    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo",
+    inCart: false,
+    count: 0,
+    total: 0,
   },
   {
     id: 5,
@@ -42,7 +54,10 @@ export const storeProducts = [
     price: 5,
     company: "Heads-To-Tails Pet Shop",
     info: 
-    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo"
+    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo",
+    inCart: false,
+    count: 0,
+    total: 0,
   },
   {
     id: 6,
@@ -51,7 +66,10 @@ export const storeProducts = [
     price: 5,
     company: "Heads-To-Tails Pet Shop",
     info: 
-    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo"
+    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo",
+    inCart: false,
+    count: 0,
+    total: 0,
   },
   {
     id: 7,
@@ -60,7 +78,10 @@ export const storeProducts = [
     price: 5,
     company: "Heads-To-Tails Pet Shop",
     info: 
-    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo"
+    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo",
+    inCart: false,
+    count: 0,
+    total: 0,
   },
   {
     id: 8,
@@ -69,7 +90,10 @@ export const storeProducts = [
     price: 5,
     company: "Heads-To-Tails Pet Shop",
     info: 
-    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo"
+    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo",
+    inCart: false,
+    count: 0,
+    total: 0,
   },
   {
     id: 9,
@@ -78,7 +102,10 @@ export const storeProducts = [
     price: 5,
     company: "Heads-To-Tails Pet Shop",
     info: 
-    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo"
+    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo",
+    inCart: false,
+    count: 0,
+    total: 0,
   },
   {
     id: 10,
@@ -87,7 +114,10 @@ export const storeProducts = [
     price: 5,
     company: "Heads-To-Tails Pet Shop",
     info: 
-    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo"
+    "lorem ipsum dolor amet offal butcher quiona sustainable gastropub, echp park acctual green juice sriracha paleo",
+    inCart: false,
+    count: 0,
+    total: 0,
   }
 ];
 
