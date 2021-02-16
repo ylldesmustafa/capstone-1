@@ -32,7 +32,6 @@ export default class Product extends Component {
           {/* card footer */}
           <div className="card-footer d-flex justify-content-between">
             <p className="align-self-center">
-              {id}
               {title}
             </p>
             <h5 className="text-blue font-italic mb-0">
