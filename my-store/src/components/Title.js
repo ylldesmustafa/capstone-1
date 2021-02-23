@@ -5,9 +5,8 @@ export default function Title({title}) {
     <div className="row">
       <div className="col-10 mx-auto my-2 text-center text-title">
         <h1 className="text-capitalize font-weight-bold">
-          HEADS-TO-TAILS Pet Shop <strong className="text-blue"> {title}
-
-          </strong>
+          HEADS-TO-TAILS Pet Shop 
+          <h4 className="text-blue"> {title}</h4>
         </h1>
       </div>
     </div>

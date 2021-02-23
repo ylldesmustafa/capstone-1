@@ -3,6 +3,23 @@ import Product from './Product';
 import Title from './Title';
 import {ProductConsumer} from '../context';
 
+const ProductSearch = ({productSearch=[]}) => {
+  return (
+    <>
+    { productSearch.map((data,index) => {
+        if (data) {
+          return (
+            <div key={data.name}>
+              <h1>{data.name}</h1>
+	    </div>	
+    	   )	
+    	 }
+    	 return null
+    }) }
+    </>
+  );
+}
+
 class ProductList extends Component {
   render() {
     return ( 

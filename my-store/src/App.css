@@ -1,14 +1,14 @@
 :root {
   --lightBlue: #a5d8ff;
   --lightGreen: #afd0d6;
-  --mainWhite: #f3f3f3;
+  --White: #f3f3f3;
   --darkOnyx: #36393b;
   --mainPink: #c49799;
   --mainDustyPink: #bfb6bb;
 }
 body {
   font-family: "Poppins", sans-serif !important;
-  background: var(--mainWhite) !important;
+  background: var(--White) !important;
   color: var(--mainPink) !important;
 }
 .text-title {
@@ -32,7 +32,7 @@ body {
 }
 .btn-black:hover {
   background: var(--darkOnyx) !important;
-  color: var(--maineWhite) !important;
+  color: var(--White) !important;
 }
 .cart-icon {
   cursor: pointer;
