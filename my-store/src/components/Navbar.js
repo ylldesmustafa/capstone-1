@@ -4,7 +4,7 @@ import logo from '../catLogo.svg';
 import styled from 'styled-components';
 import {ButtonContainer} from "./Button";
 
-export default class Navbar extends Component {
+class Navbar extends Component {
   render() {
     return (
       <NavWrapper className="navbar navbar-expand-sm navbar-dark px-sm-5">
@@ -33,6 +33,8 @@ export default class Navbar extends Component {
     )
   }
 }
+
+export default Navbar;
 
 const NavWrapper = styled.nav`
   background:var(--mainBlue);

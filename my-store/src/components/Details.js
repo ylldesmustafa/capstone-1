@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { ButtonContainer } from './Button';
 import { Button } from 'bootstrap';
 
-export default class Details extends Component {
+class Details extends Component {
   render() {
     return (
       <ProductConsumer>
@@ -62,3 +62,5 @@ export default class Details extends Component {
     )
   }
 }
+
+export default Details; 
