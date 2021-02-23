@@ -44,8 +44,7 @@ render() {
         {title}
       </p>
       <h5 className="text-blue font-italic mb-0">
-        <span className="mr-1">$</span>
-        {price}
+        <span className="mr-1">$</span>{price}
       </h5>
             </div> 
   </ProductWrapper>
@@ -99,9 +98,9 @@ const ProductWrapper = styled.div`
   bottom: 0;
   right: 0;
   padding: 0.2rem 0.4rem;
-  background: var(--lightBlue);
+  background: var(--lightGreen);
   border: none;
-  color: var(--mainWhite);
+  color: var(--White);
   font-size: 1.4rem;
   border-radius: 0.5rem 0 0 0;
   transform: translate(100%,100%);
@@ -111,7 +110,7 @@ const ProductWrapper = styled.div`
   transform: translate(0, 0);
 }
 .cart-btn:hover{
-  color: var(--mainBlue);
+  color: var(--mainPink);
   cursor: pointer;
 }
 `;

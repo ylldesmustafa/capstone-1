@@ -8,7 +8,7 @@ import Details from './components/Details';
 import Cart from './components/Cart';
 import Default from './components/Default';
 import Modal from './components/Modal';
-import SearchPage from './components/SearchPage';
+import Search from './Search';
 
 class App extends Component {
   render() {
